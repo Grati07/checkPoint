@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    line-height: 30px;
+
+}
+
+body {
+    font-family: 'Roboto';
+    color: rgb(13, 13, 16);
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+
+.navbar {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+.navbar a {
+    color: brown;
+    margin-right: 20px;
+}
+
+.navbar a:hover {
+    color: #ddd;
+}
+
+a:hover {
+    color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+
+}
+
+h2,
+h3 {
+    color: aqua;
+}
+
+.portfolio-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    
+}
+
+.home p {
+    text-align: center;
+}
+
+.iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+}
+
+.form {
+    text-align: center;
+
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 4px;
+
+}
+
+textarea {
+    border: 1px solid black;
+    border-radius: 4px;
+
+}
+
+
+
+
+
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+}
